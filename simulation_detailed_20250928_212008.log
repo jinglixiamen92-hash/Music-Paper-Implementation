@@ -1,0 +1,57 @@
+2025-09-28 21:20:08,907 - MusicEducationSimulation - INFO -    Student Profile: {'student_id': 'student_0', 'level': 'beginner', 'initial_TP': 0.3573992758721582}
+2025-09-28 21:20:09,357 - MusicEducationSimulation - INFO -    Duration: 0:00:00.431764
+2025-09-28 21:20:09,358 - MusicEducationSimulation - INFO -    Total Reward: 12.12
+2025-09-28 21:20:09,358 - MusicEducationSimulation - INFO -    Final Metrics: {'final_state': {'TP': 0.028888864038353557, 'ME': 0.6119018224808374, 'SR': 0.20157447455781707, 'IS': 0.2566670031708769, 'TC': 0.1601092257343294, 'EX': 0.3336984725995408, 'PC': 0.8603963292212998, 'SA': 0.4865817349822553}, 'total_reward': 12.121105014055042, 'learning_gain': 0.4871931363097639}
+2025-09-28 21:20:09,375 - MusicEducationSimulation - INFO -    Student Profile: {'student_id': 'student_1', 'level': 'intermediate', 'initial_TP': 0.45215762011542787}
+2025-09-28 21:20:09,724 - MusicEducationSimulation - INFO -    Duration: 0:00:00.327321
+2025-09-28 21:20:09,725 - MusicEducationSimulation - INFO -    Total Reward: 9.72
+2025-09-28 21:20:09,728 - MusicEducationSimulation - INFO -    Final Metrics: {'final_state': {'TP': 0.8362298970458558, 'ME': 0.543170259480927, 'SR': 0.1306099388258043, 'IS': 0.6519986478896038, 'TC': 0.3310325985867828, 'EX': 0.38106224255259824, 'PC': 0.36087446738154394, 'SA': 0.8464479828349214}, 'total_reward': 9.717834961390135, 'learning_gain': 0.3349236721115821}
+2025-09-28 21:20:09,752 - MusicEducationSimulation - INFO -    Student Profile: {'student_id': 'student_2', 'level': 'advanced', 'initial_TP': 0.3804859424852526}
+2025-09-28 21:20:10,110 - MusicEducationSimulation - INFO -    Duration: 0:00:00.339811
+2025-09-28 21:20:10,111 - MusicEducationSimulation - INFO -    Total Reward: 8.65
+2025-09-28 21:20:10,112 - MusicEducationSimulation - INFO -    Final Metrics: {'final_state': {'TP': 0.6048704667438097, 'ME': 0.9895965054457133, 'SR': 0.5743765238009916, 'IS': 0.22394876142462306, 'TC': 0.24489732080660453, 'EX': 0.7419357258861192, 'PC': 0.001541986202430179, 'SA': 0.7690983691379397}, 'total_reward': 8.654557072111855, 'learning_gain': 0.16287340708346376}
+2025-09-28 21:20:10,123 - MusicEducationSimulation - INFO -    Student Profile: {'student_id': 'student_3', 'level': 'advanced', 'initial_TP': 0.5743062848254306}
+2025-09-28 21:20:10,686 - MusicEducationSimulation - INFO -    Duration: 0:00:00.541353
+2025-09-28 21:20:10,688 - MusicEducationSimulation - INFO -    Total Reward: 17.53
+2025-09-28 21:20:10,689 - MusicEducationSimulation - INFO -    Final Metrics: {'final_state': {'TP': 0.12238221112080705, 'ME': 0.875579980187034, 'SR': 0.8380456867053298, 'IS': 0.2823183799565224, 'TC': 0.34893950369258875, 'EX': 0.27270308653003006, 'PC': 0.9222852597320205, 'SA': 0.4723803347192195}, 'total_reward': 17.529634438582697, 'learning_gain': 0.15323465116378224}
+2025-09-28 21:20:10,718 - MusicEducationSimulation - INFO -    Student Profile: {'student_id': 'student_4', 'level': 'beginner', 'initial_TP': 0.7336338946204877}
+2025-09-28 21:20:11,184 - MusicEducationSimulation - INFO -    Duration: 0:00:00.449739
+2025-09-28 21:20:11,185 - MusicEducationSimulation - INFO -    Total Reward: 9.61
+2025-09-28 21:20:11,186 - MusicEducationSimulation - INFO -    Final Metrics: {'final_state': {'TP': 0.18921316631654894, 'ME': 0.07585931624124898, 'SR': 0.5205129245728408, 'IS': 0.6701607201353879, 'TC': 0.6975314434801818, 'EX': 0.1802154946522434, 'PC': 0.8195579463580542, 'SA': 0.8428316803657422}, 'total_reward': 9.606093397787406, 'learning_gain': 0.4470186483562947}
+2025-09-28 21:20:11,206 - MusicEducationSimulation - INFO -    Student Profile: {'student_id': 'student_5', 'level': 'advanced', 'initial_TP': 0.4511649875176478}
+2025-09-28 21:20:11,546 - MusicEducationSimulation - INFO -    Duration: 0:00:00.324473
+2025-09-28 21:20:11,547 - MusicEducationSimulation - INFO -    Total Reward: 17.39
+2025-09-28 21:20:11,548 - MusicEducationSimulation - INFO -    Final Metrics: {'final_state': {'TP': 0.34510721398433675, 'ME': 0.9618817380556566, 'SR': 0.7849116252818918, 'IS': 0.07426442896217689, 'TC': 0.059470083498105564, 'EX': 0.6179048130484159, 'PC': 0.25873478708015074, 'SA': 0.936746256441451}, 'total_reward': 17.39328702888512, 'learning_gain': 0.23602536166421306}
+2025-09-28 21:20:11,566 - MusicEducationSimulation - INFO -    Student Profile: {'student_id': 'student_6', 'level': 'intermediate', 'initial_TP': 0.6610639643889801}
+2025-09-28 21:20:11,910 - MusicEducationSimulation - INFO -    Duration: 0:00:00.328820
+2025-09-28 21:20:11,916 - MusicEducationSimulation - INFO -    Total Reward: 6.31
+2025-09-28 21:20:11,917 - MusicEducationSimulation - INFO -    Final Metrics: {'final_state': {'TP': 0.5391762507641941, 'ME': 0.15422464302219308, 'SR': 0.10909768974482326, 'IS': 0.1425367543844136, 'TC': 0.6212393597670928, 'EX': 0.17903426934022404, 'PC': 0.8017180407535529, 'SA': 0.9323652520426565}, 'total_reward': 6.313746215626913, 'learning_gain': 0.4605361743348646}
+2025-09-28 21:20:11,933 - MusicEducationSimulation - INFO -    Student Profile: {'student_id': 'student_7', 'level': 'intermediate', 'initial_TP': 0.6284255768284903}
+2025-09-28 21:20:12,047 - MusicEducationSimulation - INFO -    Duration: 0:00:00.110935
+2025-09-28 21:20:12,047 - MusicEducationSimulation - INFO -    Total Reward: 16.73
+2025-09-28 21:20:12,047 - MusicEducationSimulation - INFO -    Final Metrics: {'final_state': {'TP': 0.5752422080127619, 'ME': 0.437081728192526, 'SR': 0.38548104149366635, 'IS': 0.5643047975758028, 'TC': 0.7553646095336711, 'EX': 0.8807031805684482, 'PC': 0.7880040583671287, 'SA': 0.9138768111799481}, 'total_reward': 16.734201371359347, 'learning_gain': 0.17371723592713476}
+2025-09-28 21:20:12,050 - MusicEducationSimulation - INFO -    Student Profile: {'student_id': 'student_8', 'level': 'intermediate', 'initial_TP': 0.6931008338195825}
+2025-09-28 21:20:12,163 - MusicEducationSimulation - INFO -    Duration: 0:00:00.110936
+2025-09-28 21:20:12,163 - MusicEducationSimulation - INFO -    Total Reward: 15.25
+2025-09-28 21:20:12,164 - MusicEducationSimulation - INFO -    Final Metrics: {'final_state': {'TP': 0.14597840220160896, 'ME': 0.9283707517197479, 'SR': 0.05946980259254009, 'IS': 0.9977312444477677, 'TC': 0.3779173206050377, 'EX': 0.35964996099813595, 'PC': 0.70151022359337, 'SA': 0.7914929499150012}, 'total_reward': 15.245308280190631, 'learning_gain': 0.2594355617886155}
+2025-09-28 21:20:12,166 - MusicEducationSimulation - INFO -    Student Profile: {'student_id': 'student_9', 'level': 'beginner', 'initial_TP': 0.3372229744372049}
+2025-09-28 21:20:12,280 - MusicEducationSimulation - INFO -    Duration: 0:00:00.107937
+2025-09-28 21:20:12,280 - MusicEducationSimulation - INFO -    Total Reward: 11.95
+2025-09-28 21:20:12,280 - MusicEducationSimulation - INFO -    Final Metrics: {'final_state': {'TP': 0.24606476164678892, 'ME': 0.5841601215266734, 'SR': 0.8965976566487397, 'IS': 0.7013120759499156, 'TC': 0.9341805916529448, 'EX': 0.5576837322193822, 'PC': 0.9854219047802453, 'SA': 0.05241237728025805}, 'total_reward': 11.945024672795405, 'learning_gain': 0.24092880723956528}
+2025-09-28 21:20:12,284 - MusicEducationSimulation - INFO - 
+================================================================================
+SIMULATION SUMMARY REPORT
+================================================================================
+Total Episodes: 10
+Total Steps: 200
+Average Reward per Episode: 12.53
+Simulation Duration: 0:00:03.372714
+
+Algorithm Performance:
+  SAC         : Avg Reward =   12.12 ±  0.00 (n=1)
+  TRPO        : Avg Reward =   13.06 ±  3.29 (n=3)
+  DQN         : Avg Reward =    7.48 ±  1.17 (n=2)
+  Q-learning  : Avg Reward =   14.58 ±  3.53 (n=3)
+  DDPG        : Avg Reward =   15.25 ±  0.00 (n=1)
+================================================================================
+2025-09-28 21:20:12,353 - MusicEducationSimulation - INFO - Logs exported to simulation_export_20250928_212012.json

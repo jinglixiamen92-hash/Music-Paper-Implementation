@@ -1,0 +1,15 @@
+================================================================================
+SIMULATION SUMMARY REPORT
+================================================================================
+Total Episodes: 10
+Total Steps: 200
+Average Reward per Episode: 12.53
+Simulation Duration: 0:00:03.372714
+
+Algorithm Performance:
+  SAC         : Avg Reward =   12.12 ±  0.00 (n=1)
+  TRPO        : Avg Reward =   13.06 ±  3.29 (n=3)
+  DQN         : Avg Reward =    7.48 ±  1.17 (n=2)
+  Q-learning  : Avg Reward =   14.58 ±  3.53 (n=3)
+  DDPG        : Avg Reward =   15.25 ±  0.00 (n=1)
+================================================================================
